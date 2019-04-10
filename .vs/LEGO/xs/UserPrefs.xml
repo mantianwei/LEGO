@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7AFFDD37-4E14-3348-479E-33EABBA07F66}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Assets/myscript/CreateCircle.cs" Line="1" Column="1" />
+      <File FileName="Assets/myscript/ButtonEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/myscript/mytxtIO.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityARKitPlugin/LEGOScene/ARKit2.0/UnityARObjectAnchor/LEGODemo/myscript/GenerateLego.cs" Line="21" Column="50" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/UnityARSessionNativeInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARObjectAnchor.cs" Line="58" Column="52" />
+      <File FileName="README.md" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

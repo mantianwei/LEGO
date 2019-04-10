@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F88FAAB3-2CA2-3ADF-CA91-21FFEE483999}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARObjectAnchor/LEGODemo/LerpDemo.cs">
+    <Files>
+      <File FileName="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARObjectAnchor/LEGODemo/InterfaceController.cs" Line="34" Column="59" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARObjectAnchor/LEGODemo/GenerateLegoAnchor.cs" Line="44" Column="10" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARObjectAnchor/LEGODemo/GenerateLego.cs" Line="44" Column="10" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARObjectAnchor/GenerateObjectAnchor.cs" Line="42" Column="79" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARObjectAnchor/LEGODemo/LerpDemo.cs" Line="8" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

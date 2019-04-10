@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnityARKitPlugin/LEGOScene/ARKit2.0/UnityARObjectAnchor/LEGODemo.unity
+  isLoaded: 1
+  isActive: 1
